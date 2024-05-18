@@ -2,7 +2,7 @@
 ## Bem-vindo ao meu perfil no Github.
 
 - 💼 Atualmente estou trabalhando na Força Aérea Brasileira.
-- 📚 Atualmente formado em Análise e Desenvolvimento de Sistemas, mas estou estudando e aprendendo Html, Css e JS na Alura.
+- 📚 Formado em Análise e Desenvolvimento de Sistemas, mas estou estudando e aprendendo Html, CSS e JS na Alura.
 - 💻 Procuro colaborar em projetos de código aberto!
 - 📌 Residência em Belo Horizonte.
 - 📨 Como entrar em contato comigo:
