@@ -1,8 +1,8 @@
 # Olá, meu nome é Leandro!
 ## Bem-vindo ao meu perfil no Github.
 
-- 💼 Atualmente estou trabalhando na Força Aérea Brasileira.
-- 📚 Formado em Análise e Desenvolvimento de Sistemas, mas estou estudando e aprendendo Html, CSS e JS na Alura.
+- 💼 Atualmente trabalhando em uma contabilidade.
+- 📚 Formado em Análise e Desenvolvimento de Sistemas.
 - 💻 Procuro colaborar em projetos de código aberto!
 - 📌 Residência em Belo Horizonte.
 - 📨 Como entrar em contato comigo:
