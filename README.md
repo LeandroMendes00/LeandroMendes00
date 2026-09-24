@@ -1,6 +1,5 @@
 ## Bem-vindo ao meu perfil no Github.
 - ## Formado em Análise e Desenvolvimento de Sistemas.
-- 
 - 📌 Residência em Belo Horizonte.
 - 📨 Como entrar em contato comigo:
 <div>
