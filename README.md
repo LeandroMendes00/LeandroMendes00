@@ -1,11 +1,10 @@
-# Olá, meu nome é Leandro!
 ## Bem-vindo ao meu perfil no Github.
 
-- 💼 Atualmente trabalhando em uma contabilidade.
-- 📚 Formado em Análise e Desenvolvimento de Sistemas.
-- 💻 Colaborador no projeto Rcont Fiscal Lucro Presumido!
-- 💻 Colaborador no projeto Rcont Fiscal Simples Nacional!
--   # Sistema Interno Da Rcont Serviços Contábeis, utilização de ferramentas IA.
+- # Atualmente trabalhando em uma contabilidade.
+- # Formado em Análise e Desenvolvimento de Sistemas.
+- # Colaborador no projeto Rcont Fiscal Lucro Presumido!
+- # Colaborador no projeto Rcont Fiscal Simples Nacional!
+-   Sistema Interno Da Rcont Serviços Contábeis, utilização de ferramentas IA.
       - ### 🛠️ Tecnologias
       ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
       ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
